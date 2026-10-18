@@ -1,0 +1,26 @@
+Row,Statistic,Group,Mean,SE,N
+1,Before all available,PA,23.33116883,1.351148861,77
+1,Before all available,NJ,20.4394081,0.5082607034,321
+1,Before all available,NJ_low,19.55670103,0.7748557498,97
+1,Before all available,NJ_mid,20.08065693,0.8412736286,137
+1,Before all available,NJ_high,22.25,1.135799384,71
+2,After all available,PA,21.16558442,0.9432211555,77
+2,After all available,NJ,21.02742947,0.5203094415,319
+2,After all available,NJ_low,20.87755102,1.005901512,98
+2,After all available,NJ_mid,20.95555556,0.7556076828,135
+2,After all available,NJ_high,20.21376812,1.02510416,69
+3,Change in means,PA,-2.165584416,1.221993875,79
+3,Change in means,NJ,0.5880213674,0.4721458206,331
+3,Change in means,NJ_low,1.320849989,0.811592002,101
+3,Change in means,NJ_mid,0.8748986212,0.6728006699,140
+3,Change in means,NJ_high,-2.036231884,0.9819060518,73
+4,Change balanced,PA,-2.283333333,1.253268999,75
+4,Change balanced,NJ,0.4666666667,0.4808285714,309
+4,Change balanced,NJ_low,1.204787234,0.8224897575,94
+4,Change balanced,NJ_mid,0.7098484848,0.6862267802,132
+4,Change balanced,NJ_high,-2.156716418,1.0073205,67
+5,Change temporary zero,PA,-2.283333333,1.253268999,75
+5,Change temporary zero,NJ,0.2258785942,0.4909787713,313
+5,Change temporary zero,NJ_low,0.8973684211,0.8699159992,95
+5,Change temporary zero,NJ_mid,0.4940298507,0.6928375419,134
+5,Change temporary zero,NJ_high,-2.389705882,1.019379577,68

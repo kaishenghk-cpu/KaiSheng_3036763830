@@ -1,0 +1,4 @@
+Clean-input reproduction succeeded.
+Ran the entry point from /tmp in a separate project copy containing only code, input_manifest.json and the raw CSV.
+All 26 generated output files, including report.pdf, matched byte for byte.
+No cached outputs or network access were required.

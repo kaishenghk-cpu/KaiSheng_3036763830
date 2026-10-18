@@ -76,9 +76,9 @@ def build(root, r):
     p('Values are means, with standard errors in parentheses. Sample sizes vary by variable. Store-type and wage-threshold entries are percentages; wages and meal prices are dollars. Full-time percentage follows the convention described above.','NoteX')
     rows=[]
     for _,a in r['t2'].iterrows():
-        label=a.Variable.replace('Full time percentage convention','Full time percentage').replace(' percent','')
+        label=a.Variable.replace('Full time percentage convention','Full time percentage').removesuffix(' percent')
         rows.append([label,f'{a.NJ_mean:.2f} ({a.NJ_SE:.2f})',str(int(a.NJ_N)),f'{a.PA_mean:.2f} ({a.PA_SE:.2f})',str(int(a.PA_N)),f'{a.t_Welch:.2f}'])
-    table(['Variable','New Jersey','N','Pennsylvania','N','Welch t'],rows,[176,90,25,90,25,79],True)
+    table(['Variable','New Jersey','N','Pennsylvania','N','Welch t'],rows,[171,90,30,90,30,74],True)
     p('Prefixes 1, 2 and 3 denote store types, first survey and second survey. Welch t tests use the unequal-variance difference-in-means formula. Both Welch and pooled t statistics are retained in the machine-readable output. For threshold indicators, the denominator is all restaurants in the state, matching the original table\'s first-wave percentages; a missing wage is not counted as a report at that threshold. This differs from Figure 1, whose denominators include observed wages only.','NoteX')
     p('Most displayed means reproduce the original rounding. A visible exception is New Jersey\'s follow-up percentage at exactly $5.05: the supplied file has 283 such records, giving 85.50 percent, versus 85.2 in the article. Some t statistics also differ slightly. The input is not edited to force a match.','NoteX')
 

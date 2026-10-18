@@ -1,0 +1,27 @@
+{
+  "input_sha256": "45e6f4ac4928f7c9fcc2585a45e0467ecaa039f0b241f4c5a26cd290fd8e772b",
+  "input_shape": [
+    410,
+    46
+  ],
+  "rows_preserved": true,
+  "repeated_sheet_ids": 1,
+  "balanced_n": 384,
+  "table4_n": 357,
+  "balanced_did": 2.75,
+  "normal_equations_passed": true,
+  "mean_difference_equals_ols": true,
+  "scipy_slope_and_se_match": true,
+  "model5_published": 11.91,
+  "model5_replicated": 11.979236582986747,
+  "model5_difference": 0.06923658298674695,
+  "table3_max_difference": 0.010000000000000009,
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8",
+    "reportlab": "4.4.9"
+  }
+}

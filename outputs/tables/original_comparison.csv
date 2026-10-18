@@ -1,0 +1,86 @@
+Table,Row model,Statistic,Published,Replicated,Difference
+Table3,1,PA,23.33,23.33,0
+Table3,1,NJ,20.44,20.44,0
+Table3,1,NJ minus PA,-2.89,-2.89,0
+Table3,1,NJ low,19.56,19.56,0
+Table3,1,NJ mid,20.08,20.08,0
+Table3,1,NJ high,22.25,22.25,0
+Table3,1,Low minus high,-2.69,-2.69,0
+Table3,1,Mid minus high,-2.17,-2.17,0
+Table3,2,PA,21.17,21.17,0
+Table3,2,NJ,21.03,21.03,0
+Table3,2,NJ minus PA,-0.14,-0.14,0
+Table3,2,NJ low,20.88,20.88,0
+Table3,2,NJ mid,20.96,20.96,0
+Table3,2,NJ high,20.21,20.21,0
+Table3,2,Low minus high,0.67,0.66,-0.01
+Table3,2,Mid minus high,0.75,0.74,-0.01
+Table3,3,PA,-2.16,-2.17,-0.01
+Table3,3,NJ,0.59,0.59,0
+Table3,3,NJ minus PA,2.76,2.75,-0.01
+Table3,3,NJ low,1.32,1.32,0
+Table3,3,NJ mid,0.87,0.87,0
+Table3,3,NJ high,-2.04,-2.04,0
+Table3,3,Low minus high,3.36,3.36,0
+Table3,3,Mid minus high,2.91,2.91,0
+Table3,4,PA,-2.28,-2.28,0
+Table3,4,NJ,0.47,0.47,0
+Table3,4,NJ minus PA,2.75,2.75,0
+Table3,4,NJ low,1.21,1.2,-0.01
+Table3,4,NJ mid,0.71,0.71,0
+Table3,4,NJ high,-2.16,-2.16,0
+Table3,4,Low minus high,3.36,3.36,0
+Table3,4,Mid minus high,2.87,2.87,0
+Table3,5,PA,-2.28,-2.28,0
+Table3,5,NJ,0.23,0.23,0
+Table3,5,NJ minus PA,2.51,2.51,0
+Table3,5,NJ low,0.9,0.9,0
+Table3,5,NJ mid,0.49,0.49,0
+Table3,5,NJ high,-2.39,-2.39,0
+Table3,5,Low minus high,3.29,3.29,0
+Table3,5,Mid minus high,2.88,2.88,0
+Table2,1a Burger King,NJ,41.1,41.08761329,-0.01238670695
+Table2,1a Burger King,PA,44.3,44.30379747,0.003797468354
+Table2,1b KFC,NJ,20.5,20.54380665,0.04380664653
+Table2,1b KFC,PA,15.2,15.18987342,-0.01012658228
+Table2,1c Roy Rogers,NJ,24.8,24.7734139,-0.02658610272
+Table2,1c Roy Rogers,PA,21.5,21.51898734,0.01898734177
+Table2,1d Wendys,NJ,13.6,13.59516616,-0.004833836858
+Table2,1d Wendys,PA,19,18.98734177,-0.01265822785
+Table2,1e Company owned,NJ,34.1,34.13897281,0.03897280967
+Table2,1e Company owned,PA,35.4,35.44303797,0.04303797468
+Table2,2a FTE employment,NJ,20.4,20.4394081,0.03940809969
+Table2,2a FTE employment,PA,23.3,23.33116883,0.03116883117
+Table2,2b Full time percentage convention,NJ,32.8,32.84886993,0.04886993282
+Table2,2b Full time percentage convention,PA,35,35.0377977,0.03779770436
+Table2,2c Starting wage,NJ,4.61,4.612133758,0.002133757962
+Table2,2c Starting wage,PA,4.63,4.630131579,0.0001315789474
+Table2,2d Wage equals 4.25 percent,NJ,30.5,30.51359517,0.01359516616
+Table2,2d Wage equals 4.25 percent,PA,32.9,32.91139241,0.01139240506
+Table2,2e Full meal price,NJ,3.35,3.351061093,0.001061093248
+Table2,2e Full meal price,PA,3.04,3.042368421,0.002368421053
+Table2,2f Hours open,NJ,14.4,14.418429,0.01842900302
+Table2,2f Hours open,PA,14.5,14.52531646,0.0253164557
+Table2,2g Recruiting bonus percent,NJ,23.6,23.56495468,-0.03504531722
+Table2,2g Recruiting bonus percent,PA,29.1,29.11392405,0.01392405063
+Table2,3a FTE employment,NJ,21,21.02742947,0.02742946708
+Table2,3a FTE employment,PA,21.2,21.16558442,-0.03441558442
+Table2,3b Full time percentage convention,NJ,35.9,35.86555202,-0.03444798483
+Table2,3b Full time percentage convention,PA,30.4,30.38484908,-0.01515091791
+Table2,3c Starting wage,NJ,5.08,5.080849057,0.0008490566038
+Table2,3c Starting wage,PA,4.62,4.617464789,-0.002535211268
+Table2,3d Wage equals 4.25 percent,NJ,0,0,0
+Table2,3d Wage equals 4.25 percent,PA,25.3,25.3164557,0.0164556962
+Table2,3e Wage equals 5.05 percent,NJ,85.2,85.49848943,0.298489426
+Table2,3e Wage equals 5.05 percent,PA,1.3,1.265822785,-0.03417721519
+Table2,3f Full meal price,NJ,3.41,3.414754098,0.004754098361
+Table2,3f Full meal price,PA,3.03,3.026619718,-0.00338028169
+Table2,3g Hours open,NJ,14.4,14.41978193,0.01978193146
+Table2,3g Hours open,PA,14.7,14.65384615,-0.04615384615
+Table2,3h Recruiting bonus percent,NJ,20.3,20.31746032,0.01746031746
+Table2,3h Recruiting bonus percent,PA,23.4,23.37662338,-0.02337662338
+Table4,1,STATE,2.33,2.325831189,-0.004168811117
+Table4,2,STATE,2.3,2.303859509,0.003859509433
+Table4,3,gap,15.65,15.65288958,0.002889576154
+Table4,4,gap,14.92,14.91567396,-0.004326040816
+Table4,5,gap,11.91,11.97923658,0.06923658299

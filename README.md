@@ -45,4 +45,4 @@ Card, D. and A. B. Krueger (1994). Minimum Wages and Employment: A Case Study of
 
 Course instructions and submission example supplied by the student, accessed 18 October 2026: https://github.com/Jeff7c/ChenJianfei_3030135471
 
-The report is AI-assisted. Checks performed by code are recorded separately from student review, which must not be assumed.
+AI assistance and the checks carried out during preparation are documented in AI_USE_DISCLOSURE.md and outputs/validation.json.

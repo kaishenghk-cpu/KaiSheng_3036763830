@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.DS_Store
+01_DID/
+data/raw/**/*.csv
+data/processed/*.csv
+*.zip
